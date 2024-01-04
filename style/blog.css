@@ -3,3 +3,7 @@ div{
     padding: 10px;
     margin-bottom: 10px;
 }
+#incremental{
+    background-color: blueviolet;
+    text-align: center;
+}
